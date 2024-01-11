@@ -1,4 +1,4 @@
-# AVNON app
+# app
 
 
 ## Setup environment
